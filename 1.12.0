@@ -1,0 +1,4 @@
+Requirement already satisfied: onnx in c:\program files (x86)\microsoft visual studio\shared\python37_64\lib\site-packages (1.14.1)
+Requirement already satisfied: numpy in c:\program files (x86)\microsoft visual studio\shared\python37_64\lib\site-packages (from onnx) (1.21.5)
+Requirement already satisfied: protobuf>=3.20.2 in c:\program files (x86)\microsoft visual studio\shared\python37_64\lib\site-packages (from onnx) (4.24.4)
+Requirement already satisfied: typing-extensions>=3.6.2.1 in c:\program files (x86)\microsoft visual studio\shared\python37_64\lib\site-packages (from onnx) (4.1.1)
